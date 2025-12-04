@@ -47,7 +47,7 @@ All our developer tools are open-source and free to use. We believe SEO should b
 - [Website](https://rampify.dev)
 - [Documentation](https://rampify.dev/docs)
 - [Tools](https://rampify.dev/tools)
-- [Twitter/X](https://twitter.com/rampifydev)
+- [Twitter/X](https://twitter.com/rampify_dev)
 
 ---
 
