@@ -1,6 +1,4 @@
-# Rampify
-
-**SEO intelligence for developers**
+![Rampify Banner](./banner.svg)
 
 We build open-source tools that help developers ship SEO-optimized sites. Pre-publish validation, automated monitoring, and real-time feedback that fits your workflow.
 
